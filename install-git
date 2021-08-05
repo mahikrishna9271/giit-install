@@ -13,4 +13,3 @@ git clone <url>
 contributors: how many members working in the current project 
 git add -A or filename--->adding working to index area
 git commit -m "massage"---->index to localrepo
-revert
