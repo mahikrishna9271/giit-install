@@ -7,3 +7,9 @@ yum install git -y
 $ sudo git config --global user.name "Your Name"
 $ sudo git config --global user.email "you@example.com"
 sudo git config --list 
+
+
+git clone <url>
+contributors: how many members working in the current project 
+git add -A or filename--->adding working to index area
+git commit -m "massage"---->index to localrepo
