@@ -1,0 +1,9 @@
+yum install git -y
+ git --version 
+ useradd -m -s /bin/bash username 
+ passwd username
+  usermod username -aG wheel 
+  # su username 
+$ sudo git config --global user.name "Your Name"
+$ sudo git config --global user.email "you@example.com"
+sudo git config --list 
